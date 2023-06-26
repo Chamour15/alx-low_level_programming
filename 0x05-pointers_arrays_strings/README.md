@@ -15,3 +15,6 @@
 5. 4-print_rev.c
    - C function that prints a string, in reverse, followed by a new line.
 
+6. 5-rev_string.c
+   - C function that reverses a string.
+
