@@ -21,3 +21,7 @@
 7. 6-puts2.c
    - C function that prints every other character of a string, starting with the first character, followed by a new line.
 
+8. 7-puts_half.c
+   - C function that prints half of a string, followed by a new line.
+     - The function print the second half of the string.
+
