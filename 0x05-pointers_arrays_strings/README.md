@@ -32,3 +32,6 @@
 10. 9-strcpy.c
     - C function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
 
+11. 100-atoi.c
+    - C function that convert a string to an integer.
+
