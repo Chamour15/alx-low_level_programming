@@ -26,15 +26,15 @@ int _atoi(char *s)
 			if (size > 0)
 			{
 				k *= 10;
-				size++;
 			}
+			size++;
 		}
 		lenCount++;
 	}
 
 	for (l = lenCount - size; l < lenCount; l++)
 	{
-		i = i + ((*(s + i) - 48) * k);
+		i = i + ((*(s + l) - 48) * k);
 		k /= 10;
 	}
 	return (i * j);
