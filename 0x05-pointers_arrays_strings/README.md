@@ -25,3 +25,7 @@
    - C function that prints half of a string, followed by a new line.
      - The function print the second half of the string.
 
+9. 8-print_array.c
+   - C function that prints n elements of an array of integers.
+     - **n** is the number of elements of the array to be printed
+
