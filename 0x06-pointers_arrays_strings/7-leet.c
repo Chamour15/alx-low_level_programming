@@ -2,7 +2,7 @@
 /**
  * leet - function that encodes a string into 1337.
  * @strn: string input.
- * Return: pointer to strn.
+ * Return: pointer to strn
  */
 char *leet(char *strn)
 {
