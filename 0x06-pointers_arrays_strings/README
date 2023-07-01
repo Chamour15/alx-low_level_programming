@@ -30,3 +30,6 @@
 10. 101-print_number.c
     - C function that prints an integer.
 
+11. 102-magic.c
+    - C program prints a[2] = 98, followed by a new line.
+
