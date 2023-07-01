@@ -24,3 +24,7 @@
 8. 7-leet.c
    - C function that encodes a string into 1337.
 
+9. 100-rot13.c
+   - C function that encodes a string using rot13.
+
+
