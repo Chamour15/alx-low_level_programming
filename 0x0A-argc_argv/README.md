@@ -18,3 +18,6 @@ int main(int argc, char **argv);
 2. 1-args.c
    - Program that prints the number of arguments passed into it.
 
+3. 2-args.c
+   - Program that print all arguments it receives.
+
