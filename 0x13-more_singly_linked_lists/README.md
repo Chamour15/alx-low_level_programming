@@ -17,3 +17,7 @@ function that frees a listint_t list.
 
 6-5. Free
 function that frees a listint_t list.
+
+7-6. Pop
+function that deletes the head node of a listint_t linked list, and returns the head node’s data (n).
+
