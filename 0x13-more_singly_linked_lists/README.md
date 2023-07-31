@@ -42,3 +42,6 @@ function that prints a listint_t linked list.
 14-13. Free (safe version)
 function that frees a listint_t list.
 
+15-14. Find the loop
+function that finds the loop in a linked list.
+
