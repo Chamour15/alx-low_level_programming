@@ -39,3 +39,6 @@ function that reverses a listint_t linked list.
 13-12. Print (safe version)
 function that prints a listint_t linked list.
 
+14-13. Free (safe version)
+function that frees a listint_t list.
+
