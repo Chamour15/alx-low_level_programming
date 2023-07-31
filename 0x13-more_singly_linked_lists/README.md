@@ -26,3 +26,6 @@ function that returns the nth node of a listint_t linked list.
 
 9-8.Sum list
 function that returns the sum of all the data (n) of a listint_t linked list.
+
+10-9. Insert
+function that inserts a new node at a given position.
