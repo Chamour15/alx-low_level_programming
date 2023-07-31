@@ -32,5 +32,10 @@ function that inserts a new node at a given position.
 
 11-10.Delete at index
 function that deletes the node at index index of a listint_t linked list.
+
 12-11.everse list
 function that reverses a listint_t linked list.
+
+13-12. Print (safe version)
+function that prints a listint_t linked list.
+
