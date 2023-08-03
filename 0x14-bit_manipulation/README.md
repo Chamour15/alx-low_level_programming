@@ -12,3 +12,6 @@ function that returns the value of a bit at a given index.
 
 4-3. 11
 function that sets the value of a bit to 1 at a given index.
+
+5-4. 100
+function that sets the value of a bit to 0 at a given index.
