@@ -21,3 +21,6 @@ function that returns the number of bits you would need to flip to get from one 
 
 7-6. Endianness
 function that checks the endianness.
+
+8-7. Crackme3
+password for this program.
